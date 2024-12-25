@@ -2,10 +2,11 @@
 
 </script>
 <template>
-
+    <h1>NO SIGNAL</h1>
 </template>
-<style>
-body {
-    background-color: #FF0000;
+<style scoped>
+h1 {
+    color: white;
+    size: 40px;
 }
 </style>

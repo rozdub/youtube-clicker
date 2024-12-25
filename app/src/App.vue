@@ -1,11 +1,14 @@
 <script setup lang="ts">
-  import MainScreen from './components/MainScreen.vue'
+import MainScreen from './components/MainScreen.vue';
+
 </script>
 
 <template>
-  <MainScreen />
+  <MainScreen></MainScreen>
 </template>
 
-<style scoped>
-
+<style>
+body {
+  background-color: maroon;
+}
 </style>
